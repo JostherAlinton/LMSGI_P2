@@ -1,0 +1,54 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: 25px;
+    color: orange;
+}
+
+th {
+    width: 100px;
+    background-color: rgb(84, 237, 84);
+    text-align: center;
+    font-weight: bold;
+}
+
+.lm {
+    background-color: blue;
+}
+
+.bd {
+    background-color: orange
+}
+
+.pd {
+    background-color: red;
+}
+
+.si {
+    background-color: aqua;
+}
+
+.tut {
+    background-color: blueviolet;
+}
+
+.an {
+    background-color: brown;
+}
+
+.diw {
+    background-color: yellow;
+}
+
+.ip {
+    background-color: green;
+}
