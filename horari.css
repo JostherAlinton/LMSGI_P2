@@ -9,6 +9,10 @@ table, th, td {
     border-collapse: collapse;
 }
 
+table {
+    margin: auto;
+}
+
 caption {
     font-size: 25px;
     color: orange;
@@ -73,6 +77,6 @@ table {
     font-size: 25px;
 }
 
-* {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
